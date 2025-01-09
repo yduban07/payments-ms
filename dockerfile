@@ -8,4 +8,4 @@ RUN npm install
 
 COPY . .
 
-EXPOSE 7007
+EXPOSE 7010
